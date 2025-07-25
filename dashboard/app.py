@@ -39,7 +39,7 @@ with ui.sidebar(open="open"):
 
     ui.a(
         "GitHub App",
-        href="https://github.com/vnallam09/cintel-05-cintel/blob/main/app.py",
+        href="https://github.com/vnallam09/cintel-05-cintel/blob/main/dashboard/app.py",
         target="_blank",
     )
 
